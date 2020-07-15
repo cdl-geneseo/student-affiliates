@@ -2,7 +2,7 @@
 
 Timeline/overview and other internship materials for INTD 395, Student Affiliate for the CDL Internship at [SUNY Geneseo](https://geneseo.edu/).
 
-Find the CDL's main blog site at [(https://cdl-geneseo.github.io/)].
+Find the CDL's main blog site at https://cdl-geneseo.github.io/.
 
 Read the [Internship Timeline & Overview](InternshipOverview.md).
 
