@@ -43,6 +43,49 @@ Student Affiliates help the center to advance the work and sustain the values of
 
 ## Timeline
 
-Week 1 | Getting settled
+### Week 1 | Getting settled
 
-### M 8/31
+#### M 8/31—F 9/4
+
+- Meet with Faculty Affiliates
+- Fork `cdl-geneseo/student-affiliates` [repository](https://github.com/cdl-geneseo/student-affiliates) on GitHub to personal account
+- Choose a [DHRI course](https://github.com/DHRI-Curriculum) to explore
+- Complete introductory journal entry
+    - create weekly branches for entries
+    - push to forked repo
+    - open pull request to add it to main branch
+
+### Weeks 2 & 3 | Claiming your "DL Domain"
+
+#### M 9/7—F 9/18
+
+*Your **DL Domain** is the area of expertise that you would like to have by the end of the semester. In your CDL Student Affiliate application, you indicated with aspects/tools/methods of digital learning you're most interested in learning more about in your time as an affiliate; this could be your **DL Domain** for the semester, or you could choose something else. Ultimately, you'll be demonstrating your **DL Domain** by developing a brief lesson/talk that will be presented to Geneseo faculty and staff in our CDL workshops.*
+
+- 
+
+
+### Week 15 | Wrapping up
+
+#### M 12/14
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
