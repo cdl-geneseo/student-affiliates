@@ -36,6 +36,7 @@ Student Affiliates help the center to advance the work and sustain the values of
 	- [GitHub](https://github.com)
     - [Hypothes.is](https://web.hypothes.is/)
     - [Slack](https://slack.com)
+    - 
     
 ### Internship requirements
 
@@ -48,12 +49,9 @@ Student Affiliates help the center to advance the work and sustain the values of
 #### M 8/31—F 9/4
 
 - Meet with Faculty Affiliates
-- Fork `cdl-geneseo/student-affiliates` [repository](https://github.com/cdl-geneseo/student-affiliates) on GitHub to personal account
+- Clone `cdl-geneseo/student-affiliates` [repository](https://github.com/cdl-geneseo/student-affiliates) on GitHub to local machine
 - Choose a [DHRI course](https://github.com/DHRI-Curriculum) to explore
-- Complete introductory journal entry
-    - create weekly branches for entries
-    - push to forked repo
-    - open pull request to add it to main branch
+- Complete introductory journal entry and push to repo
 
 ### Weeks 2 & 3 | Claiming your "DL Domain"
 
