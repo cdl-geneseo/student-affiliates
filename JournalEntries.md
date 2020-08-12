@@ -4,7 +4,7 @@ CDL Affiliates will post journal entries to the `cdl-geneseo/student-affiliates`
 
 ## Format
 
-You should keep your journal as `.md` files and use markdown to write them. 
+You should keep your journal as `.md` files and use markdown to write them. Need a refresher? Check out commonmark.org's [reference page](https://commonmark.org/help/).
 
 A word about length: write as much as you need to say what you want to say. That being said, if you have less than a full paragraph, you might want to ask yourself what you might be leaving out. Furthermore, if your post is approaching more than 2 or 3 scrolls to get through, you might want to make it a 2-part-er. 
 

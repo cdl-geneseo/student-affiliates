@@ -36,36 +36,48 @@ Student Affiliates help the center to advance the work and sustain the values of
 	- [GitHub](https://github.com)
     - [Hypothes.is](https://web.hypothes.is/)
     - [Slack](https://slack.com)
-    - 
+    - [Zotero](https://www.zotero.org/)
     
 ### Internship requirements
 
 *If you're taking this internship for general credit—INTD 395—you will be graded S (Satisfactory) or U (Unsatisfactory).*
 
-## Timeline
+## Fall 2020 Timeline
+*Student Affiliates are not limited to the "key accomplishments" outlined in this general timeline, and may be asked to perform more/less/other tasks as the semester unfolds. This timeline is meant solely to give affiliates a general sense of what to expect of their experience with the CDL.**
+### Phase One
+*Weeks 1 — 5*
 
-### Week 1 | Getting settled
+#### Getting Settled
+*Key accomplishments*
+1. Sign up for required accounts
+1. Refamiliarize with digital tools such as command line, git, python, jupyter, etc.
+1. Identify specific areas of interest for additional attention and practice throughout the semester
+1. Draft personal portfolio and post to GitHub to develop throughout the year
+1. Publish weekly journal entries
 
-#### M 8/31—F 9/4
+### Phase Two
+*Weeks 6 — 10*
+#### Getting to Work
+*Key accomplishments*
 
-- Meet with Faculty Affiliates
-- Clone `cdl-geneseo/student-affiliates` [repository](https://github.com/cdl-geneseo/student-affiliates) on GitHub to local machine
-- Choose a [DHRI course](https://github.com/DHRI-Curriculum) to explore
-- Complete introductory journal entry and push to repo
+1. Assist in/provide input for development of campus-wide webinars on digital learning tools
+1. Publish midterm blog post
+1. Review and collect relevant articles in Zotero
+1. Develop aspects of a learning module on digital learning tool area of interest for prerequisite course
+1. Participate in Digital Scholarly Editing in the Undergraduate Classroom workshop series, perhaps through panel presentation
 
-### Weeks 2 & 3 | Claiming your "DL Domain"
+### Phase Three
+*Weeks 11-15*
+#### Winding Down & Looking Ahead
+*Key accomplishments*
 
-#### M 9/7—F 9/18
+1. Publish final blog post
+1. Assist in future workshop brainstorming and planning
+1. Update personal portfolio with CDL activities and skills gained
+1. Plan projects to undertake and collaborate with Faculty Affiliates on for the following semester
+1. Contribute ideas for improving CDL Student Affiliate program
 
-*Your **DL Domain** is the area of expertise that you would like to have by the end of the semester. In your CDL Student Affiliate application, you indicated with aspects/tools/methods of digital learning you're most interested in learning more about in your time as an affiliate; this could be your **DL Domain** for the semester, or you could choose something else. Ultimately, you'll be demonstrating your **DL Domain** by developing a brief lesson/talk that will be presented to Geneseo faculty and staff in our CDL workshops.*
-
-- 
-
-
-### Week 15 | Wrapping up
-
-#### M 12/14
-
+**Cheers to our first semester! Let's get started.**
 
 
 
