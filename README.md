@@ -1,6 +1,6 @@
 # Student Affiliates for the Center for Digital Learning at Geneseo
 
-Timeline/overview and other internship materials for INTD 395, Student Affiliate for the CDL Internship at [SUNY Geneseo](https://geneseo.edu/).
+Timeline/overview and other internship materials for INTD 395, [Student Affiliate](https://www.geneseo.edu/cdl/student-affiliates) for the CDL Internship at [SUNY Geneseo](https://geneseo.edu/).
 
 Find the CDL's main blog site at https://cdl-geneseo.github.io/.
 
