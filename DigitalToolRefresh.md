@@ -2,6 +2,7 @@
 Use these resources to refresh your knowledge on these key digital tools. If it takes a little while for things to make sense again, don't worry! These skills take consistent practice to retain; it's truly a use-it-or-lose-it situation. We suggest that while you're going through these resources, you think about how you might be able to utilize these skills in your own scholarship!
 
 **FIRST THING'S FIRST** :stop_sign:
+
 Before going through all of these resources, try this: fork all of the DHRI repositories listed here from the CDL account to your own GitHub accounts. Then, go through the modules in each repository from your own fork! If you don't remember how to fork, jump right over to the **ENG340 Git Series** to access the playlist of tutorials shared in ENG340.  
 
 ## Command Line
