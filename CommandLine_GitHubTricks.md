@@ -50,7 +50,7 @@ If you're interested in these prescriptions, they're listed below:
 `alias gpom="git push origin master"`
 
 ![](images/alias.png)
-*A snapshot of the Alias section of my `.zshrc`*
+*<div align="center">A snapshot of the Alias section of my `.zshrc`</div>*
 
 
 [^1]: "5 GitHub tips for new coders" by Alyson La, https://medium.com/free-code-camp/5-github-tips-for-new-coders.
