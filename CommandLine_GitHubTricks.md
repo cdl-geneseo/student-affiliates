@@ -12,7 +12,7 @@ This is just for Chrome as far as I can tell, but save your eyes the stress and 
 
 Apparently when you are contributing to a GitHub repository and encounter a *merge conflict*, you get placed in the default Command Line Interface (CLI) text editor for git from the terminal, VIM. According to GitHub tipsters, this is a horrifying platform that should be avoided at all costs. 
 
-But we are fearless digital paladins on a crusade to refute and overthrow the 
+But we are fearless digital paladins on a crusade to refute and overthrow the idea that there are tools too scary or not meant for us to grapple with. VIM is a widely-used TE, and something you should definitely try out in case you ever find yourself in it. It also has unique commands and parameters that are fun to learn and play around with. For more information about VIM, skip to the section about Command Line Interface text editors.
 
 I'd much rather set up my git to automatically open my TE of choice, VS Code.
 
