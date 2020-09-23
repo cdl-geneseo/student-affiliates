@@ -10,7 +10,11 @@ This is just for Chrome as far as I can tell, but save your eyes the stress and 
 
 ### Set up your code editor of choice
 
-Apparently when you are contributing to a GitHub repository and encounter a *merge conflict*, you get placed in the default text editor for git from the terminal, VIM. According to GitHub tipsters, this is a horrifying platform that should be avoided at all costs. I wouldn't know, as I hadn't even heard of it until now, but I have no desire to "open the door", so to speak, on this horror movie villian. I'd much rather set up my git to automatically open my TE of choice, VS Code.
+Apparently when you are contributing to a GitHub repository and encounter a *merge conflict*, you get placed in the default Command Line Interface (CLI) text editor for git from the terminal, VIM. According to GitHub tipsters, this is a horrifying platform that should be avoided at all costs. 
+
+But we are fearless digital paladins on a crusade to refute and overthrow the 
+
+I'd much rather set up my git to automatically open my TE of choice, VS Code.
 
 Type this command into your terminal to do the same:
 
@@ -21,8 +25,16 @@ Type this command into your terminal to do the same:
 
 This tip is something I consider a kind of GitHub and command line two-fer.
 
-According to GitHub developer, Alyson La, "Dotfiles allow you to customize your terminal prompt so you can see what git branch you are on & if you have uncommited changes."[^1] So, it stands to reason that this should effectively help you avoid the `git checkout branch` command when you want to know which branch you're currently working out of. 
+According to GitHub developer, Alyson La, "Dotfiles allow you to customize your terminal prompt so you can see what git branch you are on & if you have uncommited changes."<sup>[1](#myfootnote1)</sup>
+ So, it stands to reason that this should effectively help you avoid the `git checkout branch` command when you want to know which branch you're currently working out of. 
 
+### Adding footnotes to GitHub-flavored Markdown
+
+```
+<sup>[1](#myfootnote1)</sup>
+
+<a name="myfootnote1">1</a>: Footnote content goes here
+```
 ## Command Line
 
 ### READ THE MANUAL
@@ -52,5 +64,4 @@ If you're interested in these prescriptions, they're listed below:
 ![](images/alias.png)
 *<div align="center">A snapshot of the Alias section of my `.zshrc`</div>*
 
-
-[^1]: "5 GitHub tips for new coders" by Alyson La, https://medium.com/free-code-camp/5-github-tips-for-new-coders.
+<a name="myfootnote1">1</a>: "5 GitHub tips for new coders" by Alyson La, https://medium.com/free-code-camp/5-github-tips-for-new-coders.
