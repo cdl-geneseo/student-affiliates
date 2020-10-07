@@ -20,6 +20,7 @@ Type this command into your terminal to do the same:
 
 `% git config --global core.editor "code --wait"`
 
+
 ### Dotfiles
 :construction: **Under Construction** :construction:
 
@@ -64,4 +65,51 @@ If you're interested in these prescriptions, they're listed below:
 ![](images/alias.png)
 *<div align="center">A snapshot of the Alias section of my `.zshrc`</div>*
 
+### Command Line Interface (CLI) text editors
+
+#### nano
+
+`nano` is the most commonly used CLI text editor. It has a very intuitive interface, allowing you to navigate the text with the up-and-down arrows on your keyboard, use the "return" and "delete" buttons, and provides you with a menu of available commands at the bottom of the window.
+
+![the nano window in terminal](images/nano.png)
+
+#### vim
+
+`vim` is an older, yet powerful, CLI text editor, and, while not quite as popular as `nano`, it is still widely used, and you should be familiar with its unique commands in case you ever find yourself in the position to use it.
+
+Here is a reference list of the most-used `vim` commands<sup>[2](#myfootnote2)</sup>:
+
+- save: :w
+- save and exit: :wq
+- exit: :q
+- force: ! (example :w! :q!)
+- vertical split: open a document and then type :vsplit /path-to-document/document. This will open the specified document and split the screen so you can see both documents.
+- copy: y
+- copy a line: yy
+- paste: p
+- cut: d
+- cut a line: dd
+
+### Oh My Zsh!
+
+"Oh My Zsh!" is an open source package installed at the command line that optimizes your z shell interface. There are three key aspects of this package that make it a particularly useful CLI modifier:
+
+1. Built-in aliases
+1. Themes
+1. Plug-ins
+
+As discussed in the [alias](#Aliases) section of this page, this command line function is quite useful, as it saves you time and keystrokes by assigning command strings to your chosen acronym in your shell resource. Oh My Zsh! comes with its own suite of aliases, which you can review by entering `alias` into the command prompt.
+
+NOTICE: When you install Oh My Zsh! it will automatically wipe your current alias library, so you'll want to perform a backup if you don't want to lose any of what you may have configured in your shell:
+
+`cp ~/.zshrc ~/backup.zshrc`
+
+
+
+
+
+
+<hr>
 <a name="myfootnote1">1</a>: "5 GitHub tips for new coders" by Alyson La, https://medium.com/free-code-camp/5-github-tips-for-new-coders.
+
+<a name="my footnote2">2</a>: "Vim Editor Basics" by HowtoForge, https://www.howtoforge.com/vim-basics#vim-command-reference
