@@ -95,19 +95,22 @@ Here is a reference list of the most-used `vim` commands<sup>[2](#myfootnote2)</
 "Oh My Zsh!" is an open source package installed at the command line that optimizes your z shell interface. There are three key aspects of this package that make it a particularly useful CLI modifier:
 
 1. Built-in aliases
-1. Themes
 1. Plug-ins
+1. Themes
 
-As discussed in the [alias](#Aliases) section of this page, this command line function is quite useful, as it saves you time and keystrokes by assigning command strings to your chosen acronym in your shell resource. Oh My Zsh! comes with its own suite of aliases, which you can review by entering `alias` into the command prompt.
+**Aliases:** As discussed in the [alias](#Aliases) section of this page, this command line function is quite useful, as it saves you time and keystrokes by assigning command strings to your chosen acronym in your shell resource. Oh My Zsh! comes with its own suite of aliases, which you can review by entering `alias` into the command prompt.
 
 NOTICE: When you install Oh My Zsh! it will automatically wipe your current alias library, so you'll want to perform a backup if you don't want to lose any of what you may have configured in your shell:
 
 `cp ~/.zshrc ~/backup.zshrc`
 
+**Plug-ins:** With Oh My Zsh! installed, you can optimize your zsh functionality simply by enabling its dozens of available plug-ins. All you have to do is enter your `.zshrc` file and list the plug-ins you want enabled in the plug-ins section like so:
 
+`plugins=(git vscode rails ruby)`
 
+List your desired plug-ins between the parantheses separated by white spaces.
 
-
+Which plug-ins are available? You can read about them on their GitHub repository
 
 <hr>
 <a name="myfootnote1">1</a>: "5 GitHub tips for new coders" by Alyson La, https://medium.com/free-code-camp/5-github-tips-for-new-coders.
